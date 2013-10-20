@@ -1,4 +1,4 @@
-KiiWorld-Android
-================
+HelloKii-servercode
+===================
 
-A shell project to help get started with KiiSDK on Android
+A throwaway example project for server-side code execution. Not very useful or interesting.
