@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KiiWorld</string>
+    <string name="execute_code">Execute code</string>
+    <string name="add_item">Add Item</string>
+</resources>
