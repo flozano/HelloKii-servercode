@@ -8,7 +8,6 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_toLeftOf="@+id/execbutton"
         android:onClick="addItem"
         android:text="@string/add_item" />
 
@@ -18,14 +17,5 @@
         android:layout_height="fill_parent"
         android:layout_above="@id/testbutton"
         android:layout_alignParentTop="true" />
-
-    <Button
-        android:id="@+id/execbutton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_below="@+id/list"
-        android:onClick="execCode"
-        android:text="@string/execute_code" />
 
 </RelativeLayout>
